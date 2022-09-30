@@ -1,5 +1,5 @@
 package devops;
 
-public class Airthmatic {
+public interface Airthmatic {
 
 }
